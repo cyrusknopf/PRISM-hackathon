@@ -1,2 +1,3 @@
 prism-evaluation/a.html linguist-documentation
-prism-website/** linguist-vendored
+prism-website/** linguist-detectable
+prism-evaluation/** linguist-detectable
